@@ -1,5 +1,4 @@
-# Carrossel-js
-Desenvolvendo Carrossel Treino
+#carro 
 
-![image](https://user-images.githubusercontent.com/83734913/217064065-fecc92b0-e442-41ca-85c4-edcbe981c37e.png)
+https://classic.exame.com/wp-content/uploads/2021/07/Porsche-911-Turbo-S-3.jpg?quality=70&strip=info&w=1024
 
